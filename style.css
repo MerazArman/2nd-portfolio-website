@@ -1,0 +1,255 @@
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#FFF;
+}
+h1
+{
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 5px;
+    color: darkslateblue;
+}
+.design-of-1st-D p
+{
+    color: gray;
+}
+
+.design-of-span
+{
+    color:darkslateblue;
+    font-weight: 700;
+    font-size: 50px;
+}
+.design-of-span:hover
+{
+    color:goldenrod;
+    font-size:80px;
+
+}
+.design-of-A
+{
+    text-decoration: none;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    background-image: linear-gradient(90deg,tomato,MediumVioletRed);
+
+}
+
+.design-of-A:hover
+{
+    background: orange;
+    border-radius: 20px 10px;
+}
+
+#A-er-LinearGradient-poriborton
+{
+    background-image:linear-gradient(45deg, gold,goldenrod);
+    text-decoration: none;
+    color:white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+#A-er-LinearGradient-poriborton:hover
+{
+    background: tomato;
+    border-radius: 20px 10px;
+}
+section
+{
+   height: 600px;
+}
+
+
+.design-of-1st-S
+{
+    background-image:url(images/header-bg.png);
+    background-repeat:no-repeat;
+    background-size: 1400px 550px;
+    
+
+}
+.design-of-1st-D
+{
+    width: 40%;
+    height: 500px;
+    margin-left:4%;
+    padding-left: 4%;  
+    padding-top: ;
+    float: left;
+    
+}
+
+
+.design-of-1st-D img
+{
+    width:100%;
+    height: 100%;
+
+}
+
+
+.design-of-2nd-S 
+{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1400px 500px;
+}
+
+
+.design-of-3rd-S
+{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+}
+.design-of-3rd-S h1
+{
+   text-align: center;
+}
+
+
+
+.design-of-3rd-D 
+{
+    width:28%;
+    float: left;
+    margin-left:4% ;
+}
+.design-of-3rd-D img
+{
+    width: 100%;
+}
+
+.design-of-3rd-S h1:hover 
+{
+    color: orange;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.design-of-4th-S
+{
+   background-image: url(images/footer-bg.png);
+   background-repeat: no-repeat;
+   background-size: 1400px 600px;
+}
+.design-of-4th-S h1
+{
+    font-weight: 700px;
+    margin-left: 50px;
+    font-size: 40px;
+
+}
+.design-of-4th-S h1:hover 
+{
+    color: orange;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.design-of-4th-D
+{
+  width: 28%;
+  box-shadow: 10px 10px 40px gray ;
+  border-radius: 10x;
+  text-align: center;
+  padding: 10px;
+  float: left;
+  margin-right:2% ;
+  margin-left: 1%;
+  margin-top: 1%;
+  
+}
+#vinno-design
+{
+    border-left: 5px solid;
+    border-image: linear-gradient(90deg,tomato,MediumVioletRed);
+    border-image-slice: 1;
+}
+
+.design-of-4th-D img
+{
+  float: left ;
+  
+}
+
+
+.design-of-4th-D h4
+{
+     color: tomato;
+}
+
+
+.design-of-4th-D p
+{
+       font-size: 10px;
+       color: gray;
+}
+
+.design-of-4th-D h6
+{
+       text-align: justify;
+        color: rebeccapurple;
+    
+}
+
+
+.design-of-5th-D
+{
+   height: 200px;   
+   width: 60%;
+   margin: auto;
+   text-align:center;
+   color: whitesmoke;
+   padding: 40px;
+   border-radius: 10px;
+   background-image: linear-gradient(45deg, gold,goldenrod);
+}
+.design-of-5th-D ul
+{
+    display: inline;
+    list-style: none;
+    float: left;
+
+}
+
+.design-of-5th-D ul li a
+{
+    text-decoration:none;
+    color: white;
+}
+
+.design-of-5th-D ul li 
+{
+    
+    width: 80px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:goldenrod;
+}
+#email
+{
+    float: left;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+footer
+{
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+    margin-top: 120px;
+}
